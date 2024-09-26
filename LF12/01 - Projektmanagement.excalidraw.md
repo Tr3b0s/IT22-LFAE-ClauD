@@ -2,8 +2,6 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-dg-publish: false
-sticker: emoji//1f532
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Anwendungsentwickler
 - Setzt Euch mit den SQL-JOINs auseinander ([[03 - IT22-LFAE-ClauD/LF12/06 - Wiederholung SQL JOIN.excalidraw|06 - Wiederholung SQL JOIN.excalidraw]])
 - Macht die Übungsaufgaben zu SQL und JOIN ([[03 - IT22-LFAE-ClauD/LF12/08 - Übung SQL und JOIN|08 - Übung SQL und JOIN]])

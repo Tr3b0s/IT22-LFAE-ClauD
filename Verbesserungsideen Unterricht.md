@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f9e0
+{}
 ---
 * ~~Dokumentation für das IHK Projekt intensiver besprechen - Vorgaben kommunizieren
 	* ~~Gute Quelle: Stefan Macke (https://it-berufe-podcast.de/)~~

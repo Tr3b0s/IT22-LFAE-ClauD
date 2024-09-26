@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f532
+{}
 ---
 ### Komplexe Lernaufgabe für SQL JOINs
 

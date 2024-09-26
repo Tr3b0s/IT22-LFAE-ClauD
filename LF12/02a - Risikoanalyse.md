@@ -1,6 +1,5 @@
 ---
-dg-publish: true
-sticker: emoji//2139-fe0f
+{}
 ---
 
 In Softwareentwicklungsprojekten ist es wichtig, Risiken frühzeitig zu erkennen und zu minimieren. Eine Risikoanalyse hilft dabei, potenzielle Probleme im Projektverlauf zu identifizieren und geeignete Maßnahmen zur Risikominimierung zu treffen.
