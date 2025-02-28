@@ -1,6 +1,3 @@
----
-{}
----
 # Aufgabe 
 
 *Teilt Euch in zwei Gruppen auf. Eine Gruppe recherchiert zu User Experience (UX) Design, eine zu User Interface (UI) Design. Erstellt eine kurze Präsentation (mit positiven und negativen Beispielen), um der anderen Gruppe UX-Design bzw. UI-Design vorzustellen.*

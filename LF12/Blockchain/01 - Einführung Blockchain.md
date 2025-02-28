@@ -1,6 +1,3 @@
----
-{}
----
 Die **Blockchain-Technologie** ist ein dezentrales, verteiltes Ledger-System (Ledger, dt.: Kontobuch), das auf einem Netzwerk von Computern basiert und in der Lage ist, Daten auf sichere und transparente Weise zu speichern und zu übertragen. Die Blockchain ist eine der wichtigsten Innovationen der letzten Jahre und hat das Potenzial, viele Branchen zu revolutionieren.
 
 Das Prinzip der Blockchain besteht darin, dass Daten in Blöcken gespeichert werden, die dann zu einer Kette verbunden werden. Jeder Block enthält eine bestimmte Anzahl von Transaktionen, die durch komplexe kryptographische Algorithmen gesichert sind. Diese Algorithmen stellen sicher, dass die Integrität der Daten erhalten bleibt und dass keine unautorisierten Änderungen vorgenommen werden können.

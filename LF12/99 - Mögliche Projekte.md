@@ -1,6 +1,3 @@
----
-{}
----
 # Erstellen eines ChatBots für schul.cloud
 * Kurzbeschreibung 
 	* Es soll ein ChatBot entwickelt werden, der den Benutzern zusätzliche Funktionen bereitstellt ...

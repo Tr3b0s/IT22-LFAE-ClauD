@@ -1,12 +1,13 @@
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.1",
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 126,
-			"versionNonce": 2012706767,
+			"version": 127,
+			"versionNonce": 1309731093,
+			"index": "a0",
 			"isDeleted": false,
 			"id": "mKueISenI585zrIOxrn87",
 			"fillStyle": "solid",
@@ -26,7 +27,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694546621410,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -532,8 +533,9 @@
 		},
 		{
 			"type": "freedraw",
-			"version": 134,
-			"versionNonce": 1693820399,
+			"version": 135,
+			"versionNonce": 110993083,
+			"index": "a1",
 			"isDeleted": false,
 			"id": "0MHVbixTy96uH24UBUE_k",
 			"fillStyle": "solid",
@@ -553,7 +555,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694546621410,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1099,8 +1101,9 @@
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 172560399,
+			"version": 122,
+			"versionNonce": 1922891381,
+			"index": "a2",
 			"isDeleted": false,
 			"id": "COBJpZLvVVM4DnqrumESN",
 			"fillStyle": "solid",
@@ -1120,7 +1123,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694546621410,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1601,8 +1604,9 @@
 		},
 		{
 			"type": "freedraw",
-			"version": 3,
-			"versionNonce": 1597957409,
+			"version": 4,
+			"versionNonce": 1351618395,
+			"index": "a3",
 			"isDeleted": false,
 			"id": "jNs6xcbtDBRsh-e5AtvPP",
 			"fillStyle": "solid",
@@ -1622,7 +1626,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694546085668,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1668,8 +1672,9 @@
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 1310709281,
+			"version": 123,
+			"versionNonce": 1270835157,
+			"index": "a4",
 			"isDeleted": false,
 			"id": "4SxJN5WStAMcQVVJm1bwz",
 			"fillStyle": "solid",
@@ -1689,7 +1694,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694546037416,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -2330,8 +2335,9 @@
 		},
 		{
 			"type": "freedraw",
-			"version": 259,
-			"versionNonce": 1122855681,
+			"version": 260,
+			"versionNonce": 1613458427,
+			"index": "a5",
 			"isDeleted": false,
 			"id": "8gj5lws9_L8qXrN8gL9NF",
 			"fillStyle": "solid",
@@ -2351,7 +2357,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694545992688,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -3222,8 +3228,9 @@
 		},
 		{
 			"type": "freedraw",
-			"version": 142,
-			"versionNonce": 551248271,
+			"version": 143,
+			"versionNonce": 462267701,
+			"index": "a6",
 			"isDeleted": false,
 			"id": "OJPgV4wtSGBU-b6bx7TTo",
 			"fillStyle": "solid",
@@ -3243,7 +3250,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694545946254,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -3759,8 +3766,9 @@
 		},
 		{
 			"type": "text",
-			"version": 484,
-			"versionNonce": 2051186895,
+			"version": 485,
+			"versionNonce": 1769092251,
+			"index": "a7",
 			"isDeleted": false,
 			"id": "625uVW6W",
 			"fillStyle": "hachure",
@@ -3773,14 +3781,14 @@
 			"y": -315.3070246322918,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 861.499267578125,
+			"width": 862.5792846679688,
 			"height": 250,
 			"seed": 391277359,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694545985837,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3791,13 +3799,14 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "In diesem Abschnitt geht es darum, die Grundlagen der Datenanalyse zu erlernen und\npraktisch anzuwenden - dafür verwendet das Lehrbuch (S. 227 ff.) Jupyter Notebook.\n\nAufgabe 0\nLest die obigen Buchseiten, um einen Einstieg in das Thema Datenanalyse zu bekommen!\nAufgabe 1\nInstalliert Euch Jupyter Notebook - gerne auch mithilfe von VS Code. Dabei ist Euch\nein Tutorial behilflich, z. B. dieses hier, das Euch die Basics näher bringt:\n\n",
-			"lineHeight": 1.25,
-			"baseline": 242
+			"autoResize": true,
+			"lineHeight": 1.25
 		},
 		{
 			"type": "rectangle",
-			"version": 84,
-			"versionNonce": 624318383,
+			"version": 85,
+			"versionNonce": 1164785301,
+			"index": "a8",
 			"isDeleted": false,
 			"id": "KED92q5-y61Tan1GCYaRI",
 			"fillStyle": "hachure",
@@ -3819,16 +3828,17 @@
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694545946254,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "embeddable",
-			"version": 298,
-			"versionNonce": 174158018,
+			"version": 299,
+			"versionNonce": 2081876283,
+			"index": "a9",
 			"isDeleted": false,
-			"id": "ciFYu7RqGMrJ5r9xRxxKU",
+			"id": "hNTgiZMC",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -3857,15 +3867,19 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1697036078321,
+			"updated": 1728536719970,
 			"link": "https://www.youtube.com/watch?v=1S4Cgtkxqhs",
 			"locked": false,
-			"validated": true
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"type": "arrow",
-			"version": 416,
-			"versionNonce": 1388139874,
+			"version": 417,
+			"versionNonce": 605264885,
+			"index": "aA",
 			"isDeleted": false,
 			"id": "coxmxF-jLwyCMfaLyY-Yl",
 			"fillStyle": "hachure",
@@ -3887,7 +3901,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695067601814,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3896,7 +3910,7 @@
 				"gap": 15.123350538231193
 			},
 			"endBinding": {
-				"elementId": "ciFYu7RqGMrJ5r9xRxxKU",
+				"elementId": "hNTgiZMC",
 				"focus": 0.2806246095357828,
 				"gap": 15.525066068476235
 			},
@@ -3920,8 +3934,9 @@
 		},
 		{
 			"type": "line",
-			"version": 196,
-			"versionNonce": 1683469007,
+			"version": 197,
+			"versionNonce": 226232795,
+			"index": "aB",
 			"isDeleted": false,
 			"id": "a_Hd7vGKfTstCK0PnZRFq",
 			"fillStyle": "hachure",
@@ -3943,7 +3958,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546000653,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3964,8 +3979,9 @@
 		},
 		{
 			"type": "text",
-			"version": 112,
-			"versionNonce": 595375215,
+			"version": 113,
+			"versionNonce": 528897365,
+			"index": "aC",
 			"isDeleted": false,
 			"id": "Wp2CSA2r",
 			"fillStyle": "hachure",
@@ -3978,7 +3994,7 @@
 			"y": -71.6855239868164,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 281.39971923828125,
+			"width": 282.0997314453125,
 			"height": 50,
 			"seed": 719629455,
 			"groupIds": [],
@@ -3990,7 +4006,7 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1694545910984,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4001,15 +4017,16 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Für den Einstieg ist auch\ndiese Demo-Instanz geeignet",
-			"lineHeight": 1.25,
-			"baseline": 42
+			"autoResize": true,
+			"lineHeight": 1.25
 		},
 		{
 			"type": "embeddable",
-			"version": 158,
-			"versionNonce": 1530688606,
+			"version": 159,
+			"versionNonce": 1119098491,
+			"index": "aD",
 			"isDeleted": false,
-			"id": "JVEX5_RgWN4hS7AWqBCmi",
+			"id": "UASUIw0E",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -4034,15 +4051,19 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1697036078321,
+			"updated": 1728536719970,
 			"link": "https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb",
 			"locked": false,
-			"validated": true
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"type": "arrow",
-			"version": 175,
-			"versionNonce": 1077317921,
+			"version": 176,
+			"versionNonce": 52093621,
+			"index": "aE",
 			"isDeleted": false,
 			"id": "tbdfaAOTdkf95akDFNup3",
 			"fillStyle": "hachure",
@@ -4064,7 +4085,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694545929344,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4073,7 +4094,7 @@
 				"gap": 7.7977294921875
 			},
 			"endBinding": {
-				"elementId": "JVEX5_RgWN4hS7AWqBCmi",
+				"elementId": "UASUIw0E",
 				"focus": -0.5506274259869609,
 				"gap": 5.6591796875
 			},
@@ -4097,8 +4118,9 @@
 		},
 		{
 			"type": "line",
-			"version": 278,
-			"versionNonce": 1209283393,
+			"version": 279,
+			"versionNonce": 2055311131,
+			"index": "aF",
 			"isDeleted": false,
 			"id": "izxA2nO1DOFORr8iVp_gQ",
 			"fillStyle": "hachure",
@@ -4120,7 +4142,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546011812,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4141,10 +4163,11 @@
 		},
 		{
 			"type": "embeddable",
-			"version": 10,
-			"versionNonce": 1547307138,
+			"version": 11,
+			"versionNonce": 326550549,
+			"index": "aG",
 			"isDeleted": false,
-			"id": "Ga_KqNRx0o7zw-g9DzYtS",
+			"id": "yeF55KRx",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -4169,15 +4192,19 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1697036078321,
+			"updated": 1728536719970,
 			"link": "https://learn.microsoft.com/de-de/training/modules/python-create-run-jupyter-notebook/",
 			"locked": false,
-			"validated": true
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"type": "arrow",
-			"version": 150,
-			"versionNonce": 1156602146,
+			"version": 151,
+			"versionNonce": 391574459,
+			"index": "aH",
 			"isDeleted": false,
 			"id": "dwqdjRQ7b-KbyJHeJ7zHZ",
 			"fillStyle": "hachure",
@@ -4199,16 +4226,16 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695067601815,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "ciFYu7RqGMrJ5r9xRxxKU",
+				"elementId": "hNTgiZMC",
 				"focus": 0.6479865489008574,
 				"gap": 24.250279746391698
 			},
 			"endBinding": {
-				"elementId": "Ga_KqNRx0o7zw-g9DzYtS",
+				"elementId": "yeF55KRx",
 				"focus": -0.6525724800008736,
 				"gap": 10.266211734712783
 			},
@@ -4232,8 +4259,9 @@
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 1085308335,
+			"version": 49,
+			"versionNonce": 1687124341,
+			"index": "aI",
 			"isDeleted": false,
 			"id": "z7eniCXC",
 			"fillStyle": "hachure",
@@ -4246,14 +4274,14 @@
 			"y": 261.611116670263,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 228.31979370117188,
+			"width": 229.01980590820312,
 			"height": 50,
 			"seed": 221847233,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694546116919,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4264,13 +4292,14 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "...oder diese Seite zur\nAnleitung von Microsoft",
-			"lineHeight": 1.25,
-			"baseline": 42
+			"autoResize": true,
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 1452650305,
+			"version": 87,
+			"versionNonce": 156681307,
+			"index": "aJ",
 			"isDeleted": false,
 			"id": "9yuhSKmI",
 			"fillStyle": "hachure",
@@ -4283,14 +4312,14 @@
 			"y": 922.4233817677277,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 593.3594360351562,
+			"width": 594.5194091796875,
 			"height": 100,
 			"seed": 254044737,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694546492472,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4301,15 +4330,16 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Aufgabe 2\n\nBearbeitet zunächst diese vorgegebenen Jupyter Notebooks:\n",
-			"lineHeight": 1.25,
-			"baseline": 92
+			"autoResize": true,
+			"lineHeight": 1.25
 		},
 		{
 			"type": "embeddable",
-			"version": 63,
-			"versionNonce": 581580958,
+			"version": 65,
+			"versionNonce": 300061173,
+			"index": "aK",
 			"isDeleted": false,
-			"id": "lK-_mvN3qsDyvOKjm-cQg",
+			"id": "4Ok3K6Mn",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -4334,15 +4364,19 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1697036078321,
-			"link": "https://www.inf-schule.de/projekte/markdown_latex_jupyter_notebook/jupyter/grundlagen",
+			"updated": 1728536934196,
+			"link": "https://inf-schule.de/ki/menueansicht/maschinelles_lernen_mit_python",
 			"locked": false,
-			"validated": true
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"type": "line",
-			"version": 37,
-			"versionNonce": 960113569,
+			"version": 38,
+			"versionNonce": 408125691,
+			"index": "aL",
 			"isDeleted": false,
 			"id": "-O6z2sCogSR5KU1xX-eZT",
 			"fillStyle": "hachure",
@@ -4364,7 +4398,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546504687,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4385,8 +4419,9 @@
 		},
 		{
 			"type": "text",
-			"version": 362,
-			"versionNonce": 1585851535,
+			"version": 363,
+			"versionNonce": 1767727157,
+			"index": "aM",
 			"isDeleted": false,
 			"id": "CLwyhJnO",
 			"fillStyle": "hachure",
@@ -4411,7 +4446,7 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1694546642386,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4422,13 +4457,14 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Aufgabe 3\n\nEntwickelt ein eigenes Setting, in dem ihr ein Jupyter Notebook\nfür die Lösung eines Problems benutzt - z. B. zur Datenvisualisierung,\nzur Analyse von Datenbeständen oder auch zur Durchführung von Tests.\nHierbei ist Eure Praxiserfahrung und Kreativität gefragt ;)\nVerwendet keine zu komplexen Probleme.",
-			"lineHeight": 1.25,
-			"baseline": 167
+			"autoResize": true,
+			"lineHeight": 1.25
 		},
 		{
 			"type": "line",
-			"version": 88,
-			"versionNonce": 314677327,
+			"version": 89,
+			"versionNonce": 1842325915,
+			"index": "aN",
 			"isDeleted": false,
 			"id": "-uJfxUY1MatrAPWGL3CbA",
 			"fillStyle": "hachure",
@@ -4450,7 +4486,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546621410,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4471,8 +4507,9 @@
 		},
 		{
 			"type": "arrow",
-			"version": 88,
-			"versionNonce": 914768833,
+			"version": 89,
+			"versionNonce": 1468895637,
+			"index": "aO",
 			"isDeleted": false,
 			"id": "SZvSE-wdLCmS3Io4ZIpOY",
 			"fillStyle": "hachure",
@@ -4494,11 +4531,11 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546642394,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "lK-_mvN3qsDyvOKjm-cQg",
+				"elementId": "4Ok3K6Mn",
 				"focus": -0.8337156910123973,
 				"gap": 10.94573908459347
 			},
@@ -4531,8 +4568,9 @@
 		},
 		{
 			"type": "rectangle",
-			"version": 68,
-			"versionNonce": 1351433551,
+			"version": 69,
+			"versionNonce": 1593687611,
+			"index": "aP",
 			"isDeleted": false,
 			"id": "ja9BqZR91dnycguhAPdMo",
 			"fillStyle": "hachure",
@@ -4554,14 +4592,15 @@
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694546654299,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 156,
-			"versionNonce": 1072674543,
+			"version": 157,
+			"versionNonce": 1735431925,
+			"index": "aQ",
 			"isDeleted": false,
 			"id": "zcagL2bVE3Qr7fj9j7ITg",
 			"fillStyle": "hachure",
@@ -4583,14 +4622,15 @@
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694546667110,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 75,
-			"versionNonce": 1584849551,
+			"version": 76,
+			"versionNonce": 1992310491,
+			"index": "aR",
 			"isDeleted": false,
 			"id": "ePonuY-wgpJAfJMfEWRoU",
 			"fillStyle": "hachure",
@@ -4617,14 +4657,15 @@
 					"type": "arrow"
 				}
 			],
-			"updated": 1694546694719,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 217,
-			"versionNonce": 1545230913,
+			"version": 218,
+			"versionNonce": 59502677,
+			"index": "aS",
 			"isDeleted": false,
 			"id": "QgbnNXPK",
 			"fillStyle": "hachure",
@@ -4637,14 +4678,14 @@
 			"y": -421.71385300897543,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 468.6220397949219,
+			"width": 468.7869873046875,
 			"height": 66.48673742462506,
 			"seed": 731597935,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694546727672,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"fontSize": 53.18938993970005,
@@ -4655,13 +4696,14 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Daten analysieren",
-			"lineHeight": 1.25,
-			"baseline": 46
+			"autoResize": true,
+			"lineHeight": 1.25
 		},
 		{
 			"type": "line",
-			"version": 231,
-			"versionNonce": 523725345,
+			"version": 232,
+			"versionNonce": 1068084091,
+			"index": "aT",
 			"isDeleted": false,
 			"id": "_nt4E2icROnKoaI3S37dg",
 			"fillStyle": "hachure",
@@ -4683,7 +4725,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694546727672,
+			"updated": 1728536719970,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4718,16 +4760,19 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1851.6451144560078,
-		"scrollY": 596.7422350738555,
+		"currentItemArrowType": "round",
+		"scrollX": 647.0868996764477,
+		"scrollY": -780.297302860088,
 		"zoom": {
-			"value": 0.35000000000000003
+			"value": 0.887278
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
+		"gridStep": 5,
+		"gridModeEnabled": false,
 		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
+			"Bold": "rgba(217, 217, 217, 0.5)",
+			"Regular": "rgba(230, 230, 230, 0.5)"
 		},
 		"currentStrokeOptions": {
 			"highlighter": true,
@@ -4751,12 +4796,18 @@
 				}
 			}
 		},
-		"previousGridSize": null,
 		"frameRendering": {
 			"enabled": true,
 			"clip": true,
 			"name": true,
 			"outline": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "selection",
+			"customType": null,
+			"locked": false,
+			"lastActiveTool": null
 		}
 	},
 	"prevTextMode": "parsed",

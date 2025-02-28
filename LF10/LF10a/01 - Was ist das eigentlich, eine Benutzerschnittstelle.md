@@ -1,6 +1,3 @@
----
-{}
----
 
 # Beispiele für Benutzerschnittstellen:
 

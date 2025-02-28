@@ -1,9 +1,13 @@
----
-{}
----
 %% Begin Waypoint %%
 - [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
 - **[[00 - Klausur OS-01]]**
+	- [[~$Notenspiegel.xlsx]]
+	- [[Aufgabe 1 - Projektmanagement & graphische Benutzeroberflächen]]
+	- [[Aufgabe 2 - Entity Relationship Model]]
+	- [[Aufgabe 3 - Datenbanken und SQL]]
+	- [[Aufgabe 4a - Programmierung]]
+	- [[Aufgabe 4d - Grundlagen maschinellen Lernens mit künstlichen neuronalen Netzen]]
+	- **[[Ergebnisse]]**
 	- [[Korrekturbogen.docx]]
 	- [[Notenspiegel.xlsx]]
 - **[[00 - Selbsteinschätzungen]]**
@@ -33,14 +37,15 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[Unbenannt]]
+	- [[03 - IT22-LFAE-ClauD/Anhänge/Unbenannt]]
 - [[git-autocommit.sh]]
+- [[Klausurthemen IT22]]
 - **[[LF10]]**
 	- [[00 - Übersicht über Themen LF10.excalidraw.excalidraw]]
 	- [[00 - Übersicht über Themen LF10.excalidraw]]
 	- [[00 - Übersicht über Themen LF10.excalidraw.svg]]
 	- [[00 - Übersicht über Themen LF10]]
-	- **[[Anhänge]]**
+	- **Anhänge**
 		- [[Pasted Image 20230827132514_620.png]]
 		- [[Pasted Image 20230827132547_634.png]]
 		- [[Pasted Image 20230829180430_985.png]]
@@ -58,26 +63,19 @@
 		- [[05 - Geschäftsprozesse analysieren und eine Benutzerschnittstelle gestalten.excalidraw]]
 		- [[05 - Geschäftsprozesse analysieren und eine Benutzerschnittstelle gestalten.excalidraw.svg]]
 		- [[05 - Geschäftsprozesse analysieren und eine Benutzerschnittstelle gestalten]]
-		- **[[Anhänge]]**
-			- **[[Anhänge]]**
+		- **Anhänge**
+			- **Anhänge**
 				- [[Pasted Image 20231003122240_698.png]]
 			- [[Pasted Image 20231003121450_278.png]]
 	- **[[LF10c]]**
-		- [[00 - Einstieg.excalidraw.excalidraw]]
 		- [[00 - Einstieg.excalidraw]]
-		- [[00 - Einstieg.excalidraw.svg]]
 		- [[00 - Einstieg]]
-		- [[01 - Einstieg - Maschinelles Lernen.excalidraw.excalidraw]]
 		- [[01 - Einstieg - Maschinelles Lernen.excalidraw]]
-		- [[01 - Einstieg - Maschinelles Lernen.excalidraw.svg]]
 		- [[01 - Einstieg - Maschinelles Lernen]]
-		- [[02 - Daten aus heterogenen Quellen analysieren und aufbereiten.excalidraw.excalidraw]]
 		- [[02 - Daten aus heterogenen Quellen analysieren und aufbereiten.excalidraw]]
-		- [[02 - Daten aus heterogenen Quellen analysieren und aufbereiten.excalidraw.svg]]
 		- [[02 - Daten aus heterogenen Quellen analysieren und aufbereiten]]
-		- [[03 - Datenqualitaet.excalidraw]]
 		- [[03 - Datenqualitaet]]
-		- [[03 - Datenqualitaet.svg]]
+		- [[03 - Datenqualität (AB)]]
 		- [[03 - Datenqualität.excalidraw]]
 		- [[03 - Datenqualität]]
 		- [[04 - Daten analysieren.excalidraw]]
@@ -90,7 +88,7 @@
 		- [[07 - Datenanalyse mit Pandas.excalidraw]]
 		- [[07 - Datenanalyse mit Pandas.excalidraw.svg]]
 		- [[07 - Datenanalyse mit Pandas]]
-		- **[[Anhänge]]**
+		- **Anhänge**
 			- [[Pasted Image 20230905185021_156.png]]
 			- [[Pasted Image 20230905190513_587.png]]
 - **[[LF12]]**
@@ -109,6 +107,8 @@
 	- [[02b - Projektdokumentation nach IHK-Standard.excalidraw]]
 	- [[02b - Projektdokumentation nach IHK-Standard.excalidraw.png]]
 	- [[02b - Projektdokumentation nach IHK-Standard.excalidraw.svg]]
+	- [[02c - Agenda 2024-11-14.excalidraw]]
+	- [[02c - Agenda 2024-11-14.excalidraw.svg]]
 	- **[[03 - Entwicklung eines kleinen Software-Projekts.excalidraw 1.file]]**
 		- [[03 - Entwicklung eines kleinen Software-Projekts.excalidraw]]
 	- [[03 - Entwicklung eines kleinen Software-Projekts.excalidraw.excalidraw]]
@@ -125,10 +125,13 @@
 	- [[06 - Wiederholung SQL JOIN.excalidraw.svg]]
 	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw]]
 	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw.svg]]
+	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD)]]
 	- [[08 - Übung SQL und JOIN]]
 	- [[08a - JOIN Übung aus IHK Herbst-2023.excalidraw]]
 	- [[08a - JOIN Übung aus IHK Herbst-2023.excalidraw.svg]]
 	- [[08a - Lösungen SQL und JOIN]]
+	- [[08b - Übungen Datenbanknormalisierungen (Lösungen)]]
+	- [[08b - Übungen Datenbanknormalisierungen]]
 	- [[09 - Algorithmen entwickeln Musterlösungen (Python)]]
 	- [[09 - Algorithmen entwickeln]]
 	- [[10 - MergeSort Übungsimplementierung]]
@@ -136,7 +139,7 @@
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw]]
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw.svg]]
 	- [[99 - Mögliche Projekte]]
-	- **[[Anhänge]]**
+	- **Anhänge**
 		- [[Pasted Image 20230827132026_627.png]]
 		- [[Pasted Image 20230927155300_053.png]]
 		- [[Pasted Image 20230927155537_058.png]]
@@ -162,10 +165,9 @@
 		- [[00 - Übersicht Blockchain (Material).canvas]]
 		- [[00 - Übersicht Blockchain (Material).html]]
 		- [[00 - Übersicht Blockchain (Material)]]
-		- [[00 - Übersicht Blockchain (Material).png]]
 		- [[00a - Übersicht Blockchain (Links)]]
 		- [[01 - Einführung Blockchain]]
-		- **[[Anhänge]]**
+		- **Anhänge**
 			- [[Blockchain 101 - eine visuelle Demonstration - YouTube.url]]
 			- [[Blockchain einfach erklärt - Informatik an der Hochschule Luzern.url]]
 			- [[Blockchain_WhitePaper_Grundlagen-Anwendungen-Potentiale.pdf]]
@@ -191,7 +193,7 @@
 		- **[[2019-Sommer]]**
 			- [[GA1_Anwendungsentw_Aufgaben.pdf]]
 			- [[GA2_Aufgaben.pdf]]
-			- **[[Lösungen]]**
+			- **Lösungen**
 				- [[Fachinformatiker_Anwendungsentwicklung_Ganzheitliche_Aufgabe_1_ungeb.pdf]]
 				- [[IT-Berufe_Ganzheitliche_Aufgabe_2_ungeb.pdf]]
 		- **[[2021-Herbst]]**
@@ -209,12 +211,13 @@
 			- [[AP2 Sommer 2022 GA1 FA-Anwendungsentwicklung (AO 1997).pdf]]
 			- [[AP2 Sommer 2022 Lösungen.pdf]]
 			- [[eigene-loesungen]]
+		- [[2023-09-14 Übungsaufgaben]]
 		- **[[2023-Herbst]]**
 			- [[2024-09-26 Lösung Aufgabe 3 2023-Herbst Anw T1.excalidraw]]
 			- [[2024-09-26 Lösung Aufgabe 3 2023-Herbst Anw T1.excalidraw.svg]]
 			- [[Analogaufgabe AE-T2-Aufg2 Musterlösung]]
 			- [[Analogaufgabe AE-T2-Aufg2]]
-			- **[[Anhänge]]**
+			- **Anhänge**
 				- [[Pasted Image 20240926084029_469.png]]
 			- [[Anwendungsentwicklung Belegsatz.pdf]]
 			- [[Anwendungsentwicklung Teil 1 Lösung.pdf]]
@@ -232,14 +235,16 @@
 			- [[01_Anwendungsentwicklung_Loesung.pdf]]
 			- [[02 Anwendungsentwickler.pdf]]
 			- [[02 Anwendungsentwicklung Loesung.pdf]]
-			- **[[Anhänge]]**
+			- **Anhänge**
 				- [[Pasted Image 20231123133324_237.png]]
 				- [[Pasted Image 20231130102438_727.png]]
 			- [[Belegsatz Anwendungsentwickler.pdf]]
 			- [[Übungsdatei - IHK-AP2-Klausur1.xlsx]]
+		- [[2024-01-25 & 2024-02-01 Übungsaufgaben]]
 		- [[2024-09-19 Anwendungsentwickler]]
 		- [[2024-09-19 Daten- und Prozessanalysten]]
-		- [[2024-09-26 Anwendungsentwickler]]
+		- [[2024-10-10 Anwendungsentwickler]]
+		- [[2024-10-10 Daten- und Prozessanalysten]]
 - [[Notenliste (OS-1).xlsx]]
 - [[Notenliste (OS-2).xlsx]]
 - [[README]]

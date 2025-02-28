@@ -1,3 +1,6 @@
+---
+{}
+---
 ### Musterlösung (Pseudocode)
 
 ```java

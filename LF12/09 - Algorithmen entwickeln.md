@@ -1,9 +1,21 @@
----
-{}
----
 # Übungsaufgabe 1:
 Schreibe ein Python-Programm, das die Fibonacci-Folge bis zur angegebenen Anzahl von Elementen generiert und ausgibt. Verwende dabei eine iterative Methode zur Berechnung der Fibonacci-Zahlen.
-
+``` python
+def fibonacci(anzahl):
+    fibo = [0,1]
+    if (anzahl <= 2):
+        if (anzahl == 1):
+            return [0]
+        if (anzahl == 2):
+            return fibo
+        else:
+            print("Anzahl geforderter Elemente zu klein")
+            return []
+    while (len(fibo) < anzahl):
+        fibo.append(fibo[-1]+fibo[-2])
+    return fibo
+print(fibonacci(2))
+```
 # Übungsaufgabe 2:
 Schreibe eine Funktion in Python, die überprüft, ob eine gegebene Zahl eine Primzahl ist. Verwende dabei den Algorithmus des "Sieb des Eratosthenes".
 

@@ -1,6 +1,3 @@
----
-{}
----
 ### Komplexe Lernaufgabe für SQL JOINs
 
 #### Die Datenbankstruktur:
