@@ -1,13 +1,26 @@
 %% Begin Waypoint %%
 - [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
 - **[[00 - Klausur OS-01]]**
+	- [[~$Notenspiegel.xlsx]]
 	- [[Aufgabe 1 - Projektmanagement & graphische Benutzeroberflächen]]
 	- [[Aufgabe 2 - Entity Relationship Model]]
 	- [[Aufgabe 3 - Datenbanken und SQL]]
 	- [[Aufgabe 4a - Programmierung]]
 	- [[Aufgabe 4d - Grundlagen maschinellen Lernens mit künstlichen neuronalen Netzen]]
+	- **[[Ergebnisse]]**
 	- [[Korrekturbogen.docx]]
 	- [[Notenspiegel.xlsx]]
+- **[[00 - Klausur OS-02]]**
+	- **[[Ahmed Yasin]]**
+		- [[Projektdoku.pdf]]
+	- **[[Amer Shaadouh]]**
+		- [[Dokumentation(Amer).pdf]]
+	- [[Bewertung.xlsx]]
+	- **[[Bosse Lüth]]**
+		- [[WebMemeEditorProjektBosse.zip]]
+	- **[[Hendrik Mallonn]]**
+		- [[projektcode_mallonn_hendrik.7z]]
+		- [[projektdokumentation_mallonn_hendrik.pdf]]
 - **[[00 - Selbsteinschätzungen]]**
 	- [[Anschreiben f. Chat (Serienbrief).docx]]
 	- [[Selbsteinschätzung_ Unterrichtsbeteiligung.xlsx]]
@@ -136,6 +149,9 @@
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw.excalidraw]]
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw]]
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw.svg]]
+	- [[12 - Design Pattern.excalidraw]]
+	- [[12 - Design Pattern.excalidraw.svg]]
+	- [[12a - Info Design pattern]]
 	- [[99 - Mögliche Projekte]]
 	- **Anhänge**
 		- [[Pasted Image 20230827132026_627.png]]
