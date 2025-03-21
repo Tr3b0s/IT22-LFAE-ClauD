@@ -1,13 +1,26 @@
 %% Begin Waypoint %%
 - [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
 - **[[00 - Klausur OS-01]]**
+	- [[~$Notenspiegel.xlsx]]
 	- [[Aufgabe 1 - Projektmanagement & graphische Benutzeroberflächen]]
 	- [[Aufgabe 2 - Entity Relationship Model]]
 	- [[Aufgabe 3 - Datenbanken und SQL]]
 	- [[Aufgabe 4a - Programmierung]]
 	- [[Aufgabe 4d - Grundlagen maschinellen Lernens mit künstlichen neuronalen Netzen]]
+	- **[[Ergebnisse]]**
 	- [[Korrekturbogen.docx]]
 	- [[Notenspiegel.xlsx]]
+- **[[00 - Klausur OS-02]]**
+	- **[[Ahmed Yasin]]**
+		- [[Projektdoku.pdf]]
+	- **[[Amer Shaadouh]]**
+		- [[Dokumentation(Amer).pdf]]
+	- [[Bewertung.xlsx]]
+	- **[[Bosse Lüth]]**
+		- [[WebMemeEditorProjektBosse.zip]]
+	- **[[Hendrik Mallonn]]**
+		- [[projektcode_mallonn_hendrik.7z]]
+		- [[projektdokumentation_mallonn_hendrik.pdf]]
 - **[[00 - Selbsteinschätzungen]]**
 	- [[Anschreiben f. Chat (Serienbrief).docx]]
 	- [[Selbsteinschätzung_ Unterrichtsbeteiligung.xlsx]]
@@ -35,7 +48,7 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[03 - IT22-LFAE-ClauD/Anhänge/Unbenannt]]
+	- [[Unbenannt]]
 - [[git-autocommit.sh]]
 - [[Klausurthemen IT22]]
 - **[[LF10]]**
@@ -136,6 +149,9 @@
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw.excalidraw]]
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw]]
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw.svg]]
+	- [[12 - Design Pattern.excalidraw]]
+	- [[12 - Design Pattern.excalidraw.svg]]
+	- [[12a - Info Design pattern]]
 	- [[99 - Mögliche Projekte]]
 	- **Anhänge**
 		- [[Pasted Image 20230827132026_627.png]]
@@ -243,6 +259,61 @@
 		- [[2024-09-19 Daten- und Prozessanalysten]]
 		- [[2024-10-10 Anwendungsentwickler]]
 		- [[2024-10-10 Daten- und Prozessanalysten]]
+		- **[[2024-Herbst]]**
+			- **[[Anwendungsentwicklung]]**
+				- [[01_Anwedungsentwicklung.pdf]]
+				- [[01_Belegsatz.pdf]]
+				- [[02_Anwedungsentwicklung.pdf]]
+				- [[Fachinformatiker_Anwendungsentwicklung_Entwicklung_und_Umsetzung_von_Algorithmen_ungeb.pdf]]
+				- [[Fachinformatiker_Anwendungsentwicklung_Planen_eines_Softwareproduktes_ungeb.pdf]]
+			- **[[Daten- und Prozessanalyse]]**
+				- [[01_Daten_u_Prozessanalyse_Lsg.pdf]]
+				- [[01_Daten_u_Prozessanalyse.pdf]]
+				- [[02_Daten_u_Prozessanalyse_Lsg.pdf]]
+				- [[02_Daten_u_Prozessanalyse.pdf]]
+			- **[[Digitale Vernetzung]]**
+				- [[01_Digitale_Vernetzung.pdf]]
+				- [[01_Lsg_Digitale_Vernetzung.pdf]]
+				- [[02_Digitale_Vernetzung.pdf]]
+				- [[02_Lsg_Digitale_Vernetzung.pdf]]
+			- **[[Systemintegration]]**
+				- [[01_Lsg_Systemintegration.pdf]]
+				- [[01_Systemintegration.pdf]]
+				- [[02_Lsg_Systemintegration.pdf]]
+				- [[02_Systemintegration.pdf]]
+			- **[[WISO]]**
+				- [[WISO_Lsg.pdf]]
+				- [[WISO.pdf]]
+		- **[[2024-Sommer]]**
+			- **[[Anwendungsentwicklung]]**
+				- [[01_Anwendungsentwicklung.pdf]]
+				- [[01_Loesung.pdf]]
+				- [[02_Anwendungsentwicklung.pdf]]
+				- [[02_Loesung.pdf]]
+			- **[[Daten- und Prozessanalyse]]**
+				- [[01_Daten_und_Prozessanalyse.pdf]]
+				- [[01_Loesung.pdf]]
+				- [[02_Belegsatz.pdf]]
+				- [[02_Daten_und_Prozessanalyse.pdf]]
+				- [[02_Loesung.pdf]]
+			- **[[Kaufleute Digitalisierungsmanagement]]**
+				- [[01_Digitalisierungsmanagement.pdf]]
+				- [[02_Digitalisierungsmanagement.pdf]]
+				- [[02_Loesung.pdf]]
+				- [[02_Loseung.pdf]]
+			- **[[Kaufleute IT-Systemmanagement]]**
+				- [[01_IT_System_Management.pdf]]
+				- [[01_Loesung.pdf]]
+				- [[02_IT_System_Management.pdf]]
+				- [[02_Loesung.pdf]]
+			- **[[Systemintegration]]**
+				- [[01_Loesung.pdf]]
+				- [[01_Systemintegration.pdf]]
+				- [[02_Loesung.pdf]]
+				- [[02_Systemintegration.pdf]]
+			- **[[WISO]]**
+				- [[Lösung.pdf]]
+				- [[WISO.pdf]]
 - [[Notenliste (OS-1).xlsx]]
 - [[Notenliste (OS-2).xlsx]]
 - [[README]]
