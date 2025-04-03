@@ -1,9 +1,7 @@
-Erstelle mir eine detallierte Musterlösung zu diesen Aufgaben:
-
 **Übungs- und Lernaufgabe: Risiko- und Schutzbedarfsanalyse**
 
 **Kontext:**
-Du bist Fachinformatiker für Anwendungsentwicklung in einem mittelständischen Unternehmen, das spezialisierte Softwarelösungen für die Finanzbranche entwickelt. Dein Team arbeitet aktuell an einer neuen Applikation zur Verwaltung sensibler Kundendaten. Eine fundierte Risiko- und Schutzbedarfsanalyse ist erforderlich, um sicherzustellen, dass die Software den Sicherheitsanforderungen entspricht.
+Du bist Fachinformatiker für Anwendungsentwicklung in einem mittelständischen Unternehmen, das spezialisierte Softwarelösungen für die Finanzbranche entwickelt. Dein Team arbeitet aktuell an einer neuen Applikation zur Verwaltung sensibler Kundendaten - es soll damit möglich sein, die Bankkonten von Kunden bei verschiedenen Instituten sicher zu speichern und so für die Kunden später individuelle Übersichten ihrer Assets zu generieren. Eine fundierte Risiko- und Schutzbedarfsanalyse ist erforderlich, um sicherzustellen, dass die Software den Sicherheitsanforderungen entspricht.
 
 **Aufgabe:**
 
