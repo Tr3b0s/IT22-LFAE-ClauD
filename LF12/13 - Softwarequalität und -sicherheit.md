@@ -7,6 +7,7 @@
 	   - Schutzbedarfsanalyse
 	   https://bibox2.westermann.de/book/5409/page
    - Verschlüsselungstechniken (symmetrisch/asymmetrisch)
+	https://www.elektronik-kompendium.de/sites/net/1907041.htm
 
 (2. **Netzwerksicherheit**
    - Firewall-Technologien
@@ -81,6 +82,3 @@ https://bibox2.westermann.de/book/5417/page
 4. **Evaluation der Benutzerfreundlichkeit** 
     – Usability Testing: Methoden und Durchführung  
     – Nutzerfeedback einholen und auswerten 
-
-
-
