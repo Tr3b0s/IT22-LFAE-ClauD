@@ -51,6 +51,17 @@
 	- [[Unbenannt]]
 - [[git-autocommit.sh]]
 - [[Klausurthemen IT22]]
+- **[[LF4]]**
+	- **[[01 - DSGVO]]**
+		- [[01 - Einstieg und persönliche Daten]]
+		- [[02 - DSGVO im Detail]]
+	- **[[02 - Grundlagen zur Informationssicherheit (LF4)]]**
+	- [[lf4-Arbeitsblatt-Datenschutz-dsgvo.pdf]]
+	- [[lf4-einstieg.png]]
+	- [[lf4-Wichtige-Themen-DSGVO.png]]
+	- [[lf5-projektphasen.png]]
+	- [[lf5-projektstruktur.png]]
+	- [[QR-Quiz-5.1.1.png]]
 - **[[LF10]]**
 	- [[00 - Übersicht über Themen LF10.excalidraw.excalidraw]]
 	- [[00 - Übersicht über Themen LF10.excalidraw]]
@@ -152,6 +163,18 @@
 	- [[12 - Design Pattern.excalidraw]]
 	- [[12 - Design Pattern.excalidraw.svg]]
 	- [[12a - Info Design pattern]]
+	- [[12b - Beispiel Adapter-Pattern]]
+	- [[13 - Softwarequalität und -sicherheit]]
+	- [[13a - Aufgabe Risikoanalye und Schutzbedarf]]
+	- [[13a - IT-Sicherheit und Datenschutz]]
+	- [[13a - Lösung Risikoanalye und Schutzbedarf.mdenc]]
+	- [[13a - Risikoanalyse und Schutzanalyse.excalidraw]]
+	- [[13a - Risikoanalyse und Schutzanalyse.excalidraw.svg]]
+	- [[13b - Qualitätssicherung]]
+	- [[13c - Testverfahren (Software)]]
+	- [[13c - Übersicht Testverfahren.excalidraw]]
+	- [[13c - Übersicht Testverfahren.excalidraw.svg]]
+	- [[13d - Softwareergonomie]]
 	- [[99 - Mögliche Projekte]]
 	- **Anhänge**
 		- [[Pasted Image 20230827132026_627.png]]
@@ -175,6 +198,8 @@
 		- [[Pasted Image 20240430105347_175.png]]
 		- [[Pasted Image 20240430112408_784.png]]
 		- [[Pasted image 20240925105909.png]]
+		- [[Pasted Image 20250402130857_089.png]]
+		- [[Pasted Image 20250402210801_261.png]]
 	- **[[Blockchain]]**
 		- [[00 - Übersicht Blockchain (Material).canvas]]
 		- [[00 - Übersicht Blockchain (Material).html]]
@@ -259,6 +284,61 @@
 		- [[2024-09-19 Daten- und Prozessanalysten]]
 		- [[2024-10-10 Anwendungsentwickler]]
 		- [[2024-10-10 Daten- und Prozessanalysten]]
+		- **[[2024-Herbst]]**
+			- **[[Anwendungsentwicklung]]**
+				- [[01_Anwedungsentwicklung.pdf]]
+				- [[01_Belegsatz.pdf]]
+				- [[02_Anwedungsentwicklung.pdf]]
+				- [[Fachinformatiker_Anwendungsentwicklung_Entwicklung_und_Umsetzung_von_Algorithmen_ungeb.pdf]]
+				- [[Fachinformatiker_Anwendungsentwicklung_Planen_eines_Softwareproduktes_ungeb.pdf]]
+			- **[[Daten- und Prozessanalyse]]**
+				- [[01_Daten_u_Prozessanalyse_Lsg.pdf]]
+				- [[01_Daten_u_Prozessanalyse.pdf]]
+				- [[02_Daten_u_Prozessanalyse_Lsg.pdf]]
+				- [[02_Daten_u_Prozessanalyse.pdf]]
+			- **[[Digitale Vernetzung]]**
+				- [[01_Digitale_Vernetzung.pdf]]
+				- [[01_Lsg_Digitale_Vernetzung.pdf]]
+				- [[02_Digitale_Vernetzung.pdf]]
+				- [[02_Lsg_Digitale_Vernetzung.pdf]]
+			- **[[Systemintegration]]**
+				- [[01_Lsg_Systemintegration.pdf]]
+				- [[01_Systemintegration.pdf]]
+				- [[02_Lsg_Systemintegration.pdf]]
+				- [[02_Systemintegration.pdf]]
+			- **[[WISO]]**
+				- [[WISO_Lsg.pdf]]
+				- [[WISO.pdf]]
+		- **[[2024-Sommer]]**
+			- **[[Anwendungsentwicklung]]**
+				- [[01_Anwendungsentwicklung.pdf]]
+				- [[01_Loesung.pdf]]
+				- [[02_Anwendungsentwicklung.pdf]]
+				- [[02_Loesung.pdf]]
+			- **[[Daten- und Prozessanalyse]]**
+				- [[01_Daten_und_Prozessanalyse.pdf]]
+				- [[01_Loesung.pdf]]
+				- [[02_Belegsatz.pdf]]
+				- [[02_Daten_und_Prozessanalyse.pdf]]
+				- [[02_Loesung.pdf]]
+			- **[[Kaufleute Digitalisierungsmanagement]]**
+				- [[01_Digitalisierungsmanagement.pdf]]
+				- [[02_Digitalisierungsmanagement.pdf]]
+				- [[02_Loesung.pdf]]
+				- [[02_Loseung.pdf]]
+			- **[[Kaufleute IT-Systemmanagement]]**
+				- [[01_IT_System_Management.pdf]]
+				- [[01_Loesung.pdf]]
+				- [[02_IT_System_Management.pdf]]
+				- [[02_Loesung.pdf]]
+			- **[[Systemintegration]]**
+				- [[01_Loesung.pdf]]
+				- [[01_Systemintegration.pdf]]
+				- [[02_Loesung.pdf]]
+				- [[02_Systemintegration.pdf]]
+			- **[[WISO]]**
+				- [[Lösung.pdf]]
+				- [[WISO.pdf]]
 - [[Notenliste (OS-1).xlsx]]
 - [[Notenliste (OS-2).xlsx]]
 - [[README]]
