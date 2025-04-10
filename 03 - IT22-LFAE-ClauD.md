@@ -154,6 +154,7 @@
 	- [[08a - Lösungen SQL und JOIN]]
 	- [[08b - Übungen Datenbanknormalisierungen (Lösungen)]]
 	- [[08b - Übungen Datenbanknormalisierungen]]
+	- [[08c - Aufgaben SQL (schwieriger)]]
 	- [[09 - Algorithmen entwickeln Musterlösungen (Python)]]
 	- [[09 - Algorithmen entwickeln]]
 	- [[10 - MergeSort Übungsimplementierung]]
@@ -175,8 +176,15 @@
 	- [[13c - Übersicht Testverfahren.excalidraw]]
 	- [[13c - Übersicht Testverfahren.excalidraw.svg]]
 	- [[13d - Softwareergonomie]]
+	- [[14 - Uebungsaufgaben UML und Programmierung.excalidraw]]
+	- [[14 - Uebungsaufgaben UML und Programmierung.excalidraw.svg]]
+	- [[14a - Aufgaben Sequenzdiagramm]]
+	- [[14a - Loesung Sequenzdiagramm]]
+	- [[14b - Aufgaben Optimierungsalgorithmus]]
+	- [[14b - Loesungen Optimierungsalgorithmus]]
 	- [[99 - Mögliche Projekte]]
 	- **Anhänge**
+		- [[ChatGPT Image 9. Apr. 2025, 22_35_31.png]]
 		- [[Pasted Image 20230827132026_627.png]]
 		- [[Pasted Image 20230927155300_053.png]]
 		- [[Pasted Image 20230927155537_058.png]]
@@ -200,6 +208,7 @@
 		- [[Pasted image 20240925105909.png]]
 		- [[Pasted Image 20250402130857_089.png]]
 		- [[Pasted Image 20250402210801_261.png]]
+		- [[Pasted image 20250409223406.png]]
 	- **[[Blockchain]]**
 		- [[00 - Übersicht Blockchain (Material).canvas]]
 		- [[00 - Übersicht Blockchain (Material).html]]
@@ -236,6 +245,9 @@
 				- [[Fachinformatiker_Anwendungsentwicklung_Ganzheitliche_Aufgabe_1_ungeb.pdf]]
 				- [[IT-Berufe_Ganzheitliche_Aufgabe_2_ungeb.pdf]]
 		- **[[2021-Herbst]]**
+			- **[[Anhänge]]**
+				- [[132423100425_0.jpg]]
+				- [[132423100425.jpg]]
 			- [[GA1_Anwendungsentw_Aufgaben.pdf]]
 			- [[GA1_Anwendungsentw_Belegsatz.pdf]]
 			- [[GA1_Anwendungsentwicklung_Lsg.pdf]]
@@ -245,6 +257,8 @@
 			- [[GA1_Systemintegration_Lsg.pdf]]
 			- [[GA2_Aufgaben.pdf]]
 			- [[GA2_Loesungen.pdf]]
+			- [[Teil 2, Handlungsschritt 5.excalidraw]]
+			- [[Teil 2, Handlungsschritt 5.excalidraw.svg]]
 		- **[[2022-Sommer]]**
 			- [[AP2 Sommer 2022 FA-DatenProzessanalyse.pdf]]
 			- [[AP2 Sommer 2022 GA1 FA-Anwendungsentwicklung (AO 1997).pdf]]
@@ -315,6 +329,8 @@
 				- [[01_Loesung.pdf]]
 				- [[02_Anwendungsentwicklung.pdf]]
 				- [[02_Loesung.pdf]]
+				- [[Teil 2, Aufgabe 4 - Datenbank.db]]
+				- [[Teil 2, Aufgabe 4 - Datenbank.db-journal]]
 			- **[[Daten- und Prozessanalyse]]**
 				- [[01_Daten_und_Prozessanalyse.pdf]]
 				- [[01_Loesung.pdf]]
@@ -336,6 +352,8 @@
 				- [[01_Systemintegration.pdf]]
 				- [[02_Loesung.pdf]]
 				- [[02_Systemintegration.pdf]]
+			- [[Teil 2, Aufgabe 4 (SQL).excalidraw]]
+			- [[Teil 2, Aufgabe 4 (SQL).excalidraw.svg]]
 			- **[[WISO]]**
 				- [[Lösung.pdf]]
 				- [[WISO.pdf]]
