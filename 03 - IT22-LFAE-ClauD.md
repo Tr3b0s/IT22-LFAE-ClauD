@@ -52,6 +52,17 @@
 - [[git-autocommit.sh]]
 - [[Klausurthemen IT22]]
 - **[[LF4]]**
+	- **[[01 - DSGVO]]**
+		- [[01 - Einstieg und persönliche Daten]]
+		- [[02 - DSGVO im Detail]]
+	- **[[02 - Grundlagen zur Informationssicherheit (LF4)]]**
+	- [[lf4-Arbeitsblatt-Datenschutz-dsgvo.pdf]]
+	- [[lf4-einstieg.png]]
+	- [[lf4-Wichtige-Themen-DSGVO.png]]
+	- [[lf5-projektphasen.png]]
+	- [[lf5-projektstruktur.png]]
+	- [[QR-Quiz-5.1.1.png]]
+- **[[LF4]]**
 - **[[LF10]]**
 	- [[00 - Übersicht über Themen LF10.excalidraw.excalidraw]]
 	- [[00 - Übersicht über Themen LF10.excalidraw]]
