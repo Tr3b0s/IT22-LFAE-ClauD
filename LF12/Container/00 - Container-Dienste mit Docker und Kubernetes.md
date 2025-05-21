@@ -1,6 +1,4 @@
-### Unterrichtssequenz: Container-Dienste mit Docker und Kubernetes für Fachinformatiker im 3. Ausbildungsjahr
-
-Die folgende Sequenz ist als 10-stündiges Projekt konzipiert, in dem Auszubildende im 3. Lehrjahr einen realen Anwendungsfall bearbeiten. Die Sequenz unterstützt insbesondere das Lernfeld 12b "Kundenspezifische Systemintegration durchführen" und vermittelt zukunftsorientiertes Praxiswissen.
+### Container-Dienste mit Docker und Kubernetes 
 
 ## Ausgangssituation und Projektszenario
 
@@ -27,26 +25,24 @@ Die Auszubildenden übernehmen die Rolle von IT-Dienstleistern, die für einen f
 - Eine strukturierte Anforderungsanalyse durchführen
 
 **Materialien:**
-- Präsentation "Grundlagen der Containerisierung"
-- Fallbeschreibung TechConnect GmbH (als PDF)
-- Vorlage für Anforderungsanalyse und Architekturskizze
+- Video zu den Grundlagen der Containerisierung: [[01 - Container & Kubernets]]
+- [[00 - Fallbeschreibung TechConnect GmbH]]
+- [[01a - Anforderungsanalyse Vorlage]]
 
 **Ablauf:**
 1. Theoretische Einführung in Containerisierung vs. Virtualisierung (30 min)
    - Definition von Containern und deren Vorteile
    - Architektur von Container-Lösungen
-   - Docker und Kubernetes im Überblick[3]
+   - Docker und Kubernetes im Überblick --> [[01 - Container & Kubernets]] ganz unten
 
----
-
-1. Vorstellung des Kundenszenarios (20 min)
+2. Vorstellung des Kundenszenarios (20 min)
    - Ausgangssituation TechConnect GmbH
    - Problemstellungen und Anforderungen
 
 3. Gruppenarbeit: Anforderungsanalyse (40 min)
-   - Bildung von Projektteams (3-4 Personen)
+   - Bildung von Projektteams (3-4 Personen) -> Wir bilden ein Team
    - Analyse der Kundenanforderungen
-   - Erstellung eines ersten Lösungsansatzes
+   - Erstellung eines ersten Lösungsansatzes --> dafür Recherche
 
 4. Präsentation und Diskussion der Lösungsansätze (30 min)
 
@@ -60,14 +56,20 @@ Die Auszubildenden übernehmen die Rolle von IT-Dienstleistern, die für einen f
 
 **Lernziele:**
 - Docker-Umgebung einrichten und grundlegende Befehle anwenden
+	- WSL (Ubuntu / Debian)
+	- Docker installieren
 - Docker-Images erstellen und verwalten können
+	- Video (s. o.) und Tutorials: https://docs.docker.com/get-started/introduction/
 - Erste Container für die Kundenanwendung entwickeln
 
 **Materialien:**
-- Handout "Docker-Befehle Cheatsheet"
-- Installation-Guide für Docker (abhängig vom Betriebssystem)
-- Beispiel-Dockerfiles für Web-Anwendungen
-- Übungsaufgaben mit Musterlösungen
+- Handout [[01b - Docker Cheat Sheet]]
+- Installation-Guide für Docker (abhängig vom Betriebssystem) -> https://www.docker.com/get-started/
+- [[01c - Übungsaufgaben Docker Container]]
+- - Beispiel-Dockerfiles für Web-Anwendungen
+	- Nginx: https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
+	- PHP: https://hub.docker.com/_/php
+
 
 **Ablauf:**
 1. Installation und Einrichtung von Docker (30 min)[18]
@@ -76,21 +78,23 @@ Die Auszubildenden übernehmen die Rolle von IT-Dienstleistern, die für einen f
    - Docker Hub und öffentliche Images
 
 2. Arbeiten mit Dockerfiles (40 min)[11][12]
-   - Aufbau eines Dockerfiles
+   - Aufbau eines Dockerfiles --> Video Docker Tutorial, Cheat Sheet
    - Schichten-Konzept verstehen
-   - Best Practices für effiziente Images
+	   - Recherche - Tipp: Verwendet eine KI, um Euch das Konzept erklären zu lassen (Lernen durch LLM-Einsatz)
 
 3. Praktische Übung (50 min)
-   - Erstellung eines Docker-Images für einen Webserver
+   - Übungsaufgaben
+   - Erstellung eines Docker-Images für einen Webserver (nginx)
    - Konfiguration und Parameter anpassen
    - Container starten und testen
 
 **Aufgabe für die Auszubildenden:**
 1. Installieren Sie Docker auf Ihrem Entwicklungssystem.
-2. Erstellen Sie ein Dockerfile für einen Nginx-Webserver, der eine einfache Startseite für die TechConnect GmbH ausliefert.
-3. Bauen Sie das Image und starten Sie einen Container.
-4. Implementieren Sie ein zweites Dockerfile für die PHP-Anwendung des Kunden.
-5. Dokumentieren Sie Ihre Schritte und Entscheidungen in einem Entwicklerlogbuch.
+2. Bearbeiten Sie die [[01c - Übungsaufgaben Docker Container]]
+3. Erstellen Sie ein Dockerfile für einen Nginx-Webserver, der eine einfache Startseite für die TechConnect GmbH ausliefert. (Link siehe oben)
+4. Bauen Sie das Image und starten Sie einen Container.
+5. Implementieren Sie ein zweites Dockerfile für die PHP-Anwendung des Kunden. (Link siehe oben)
+6. Dokumentieren Sie Ihre Schritte und Entscheidungen in einem Entwicklerlogbuch.
 
 ### Stunde 5-6: Mehrschichtige Anwendungen mit Docker Compose
 
@@ -100,6 +104,7 @@ Die Auszubildenden übernehmen die Rolle von IT-Dienstleistern, die für einen f
 - Netzwerke und Volumes für persistente Datenhaltung einsetzen
 
 **Materialien:**
+- Infoblatt [[02 - Docker Compose]]
 - Vorlage für docker-compose.yml
 - Beispielkonfiguration für LAMP/LEMP-Stack
 - Diagramm zur Containerarchitektur
@@ -370,23 +375,3 @@ Quellen:
 
 ---
 
-**TechConnect GmbH: Die Herausforderung der digitalen Transformation**
-
-Die TechConnect GmbH, ein mittelständisches Unternehmen mit Sitz in einer dynamisch wachsenden Technologie-Region, steht vor der Herausforderung, ihre IT-Infrastruktur zukunftssicher und hochverfügbar zu gestalten. Das Unternehmen betreibt eine monolithische PHP-Anwendung mit einer MySQL-Datenbank auf einem einzigen Server. Diese Architektur hat in der Vergangenheit bei steigender Nutzerlast immer wieder Performance-Probleme verursacht und stellt auch bei regelmäßigen Updates eine hohe Ausfallzeit dar – eine Situation, die mit den Wachstumsplänen des Unternehmens nicht mehr vereinbar ist.
-
-**Kundenerwartungen und Anforderungen**
-
-Die Geschäftsführung der TechConnect GmbH hat erkannt, dass die bestehende IT-Infrastruktur modernisiert werden muss, um den Anforderungen ihrer Kunden gerecht zu werden und die Wettbewerbsfähigkeit zu sichern. Im Zuge dieser digitalen Transformation soll die Anwendung in eine containerisierte Umgebung migriert werden. Dies erfordert eine strategische Aufteilung der Anwendung in unabhängige Komponenten für Frontend, Backend und Datenbank. Wichtige Anforderungen an die neue Infrastruktur sind:
-
-1. **Automatische Skalierung**: Die Fähigkeit, bei erhöhter Nutzerlast automatisch skalieren zu können.
-2. **Zero-Downtime-Deployments**: Minimierung von Ausfallzeiten bei Updates.
-3. **Monitoring und Logging**: Implementierung eines Systems zur Überwachung und Protokollierung des Betriebs.
-4. **Technische Dokumentation**: Erstellung einer vollständigen Dokumentation zur Unterstützung zukünftiger Wartungs- und Erweiterungsmaßnahmen.
-
-**Projektherausforderung für die Auszubildenden**
-
-In dieser Projektaufgabe übernehmen Sie als angehende Fachinformatiker Anwendungsentwicklung im 3. Ausbildungsjahr die Rolle eines IT-Dienstleisters für die TechConnect GmbH. Ihre Aufgabe besteht darin, ein umfassendes Konzept für die Migration der bestehenden monolithischen Anwendung hin zu einer modernen containerisierten Lösung unter Einsatz von Docker und Kubernetes zu entwickeln.
-
-Dabei geht es nicht nur um technische Implementierungen, sondern auch um konzeptionelle Überlegungen zur Systemarchitektur sowie das Erlernen von Best Practices im Bereich Containerisierung und Orchestrierung. Ziel ist es, durch den Einsatz moderner Technologien sowohl den Betrieb als auch künftige Weiterentwicklungen effizienter zu gestalten.
-
-In einem Team werden Sie an realistischen Szenarien arbeiten, um praktische Erfahrungen in Anforderungsanalyse, Systemdesign sowie Implementierung von Container-Technologien zu sammeln.
