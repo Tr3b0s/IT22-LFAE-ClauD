@@ -48,15 +48,9 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[Dockerfile]]
-- [[le]]
-- [[gitUnbenannt]]
+	- [[Unbenannt]]
 - [[Dockerfile]]
 - [[git-autocommit.sh]]
-- [[hello_world.php]]
-- [[index.html]]
-- [[hello_world.php]]
-- [[index.html]]
 - [[hello_world.php]]
 - [[index.html]]
 - [[Klausurthemen IT22]]
@@ -223,8 +217,6 @@
 			- [[Is it hard to build a blockchain from scratch by Sinai Nday DataDrivenInvestor.url]]
 			- [[Is it hard to build a blockchain from scratch by Sinai Nday Level Up Coding.url]]
 			- [[Is It Hard to Build a Blockchain From Scratch by Sinai Nday The Startup Medium.url]]
-	- **[[Container]]**
-	- **[[Container]]**
 	- **[[Container]]**
 	- [[Themenspeicher zu Lernendes]]
 	- **[[Übungsklausuren]]**
