@@ -48,20 +48,19 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[Unbenannt]]
+	- [[Dockerfile]]
+- [[le]]
+- [[gitUnbenannt]]
+- [[Dockerfile]]
 - [[git-autocommit.sh]]
+- [[hello_world.php]]
+- [[index.html]]
+- [[hello_world.php]]
+- [[index.html]]
+- [[hello_world.php]]
+- [[index.html]]
 - [[Klausurthemen IT22]]
 - **[[LF4]]**
-	- **[[01 - DSGVO]]**
-		- [[01 - Einstieg und persönliche Daten]]
-		- [[02 - DSGVO im Detail]]
-	- **[[02 - Grundlagen zur Informationssicherheit (LF4)]]**
-	- [[lf4-Arbeitsblatt-Datenschutz-dsgvo.pdf]]
-	- [[lf4-einstieg.png]]
-	- [[lf4-Wichtige-Themen-DSGVO.png]]
-	- [[lf5-projektphasen.png]]
-	- [[lf5-projektstruktur.png]]
-	- [[QR-Quiz-5.1.1.png]]
 - **[[LF10]]**
 	- [[00 - Übersicht über Themen LF10.excalidraw.excalidraw]]
 	- [[00 - Übersicht über Themen LF10.excalidraw]]
@@ -224,6 +223,9 @@
 			- [[Is it hard to build a blockchain from scratch by Sinai Nday DataDrivenInvestor.url]]
 			- [[Is it hard to build a blockchain from scratch by Sinai Nday Level Up Coding.url]]
 			- [[Is It Hard to Build a Blockchain From Scratch by Sinai Nday The Startup Medium.url]]
+	- **[[Container]]**
+	- **[[Container]]**
+	- **[[Container]]**
 	- [[Themenspeicher zu Lernendes]]
 	- **[[Übungsklausuren]]**
 		- **[[2011-Sommer]]**
@@ -246,8 +248,6 @@
 				- [[IT-Berufe_Ganzheitliche_Aufgabe_2_ungeb.pdf]]
 		- **[[2021-Herbst]]**
 			- **[[Anhänge]]**
-				- [[132423100425_0.jpg]]
-				- [[132423100425.jpg]]
 			- [[GA1_Anwendungsentw_Aufgaben.pdf]]
 			- [[GA1_Anwendungsentw_Belegsatz.pdf]]
 			- [[GA1_Anwendungsentwicklung_Lsg.pdf]]
@@ -329,8 +329,8 @@
 				- [[01_Loesung.pdf]]
 				- [[02_Anwendungsentwicklung.pdf]]
 				- [[02_Loesung.pdf]]
+				- [[Teil 2, Aufgabe 4 - Datenbank SQL.sqbpro]]
 				- [[Teil 2, Aufgabe 4 - Datenbank.db]]
-				- [[Teil 2, Aufgabe 4 - Datenbank.db-journal]]
 			- **[[Daten- und Prozessanalyse]]**
 				- [[01_Daten_und_Prozessanalyse.pdf]]
 				- [[01_Loesung.pdf]]
